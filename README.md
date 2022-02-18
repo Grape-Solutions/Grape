@@ -1,16 +1,11 @@
-[![GitHub license](https://img.shields.io/github/license/Akshat-unt/WEBUFFER?style=for-the-badge)](https://github.com/Akshat-unt/WEBUFFER/blob/main/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/Akshat-unt/WEBUFFER?style=for-the-badge)](https://github.com/Akshat-unt/WEBUFFER/stargazers) [![GitHub stars](https://img.shields.io/github/stars/Akshat-unt/WEBUFFER?label=Contributors&style=for-the-badge)](https://github.com/Akshat-unt/WEBUFFER/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Grape-Solutions/Grape?style=for-the-badge)](https://github.com/Grape-Solutions/Grape/blob/main/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/Grape-Solution/Grape?style=for-the-badge)](https://github.com/Grape-Solutions/Grape/stargazers) [![GitHub stars](https://img.shields.io/github/stars/Grape-Solutions/Grape?label=Contributors&style=for-the-badge)](https://github.com/Grape-Solutions/Grape/stargazers)
 
-# WEBUFFER
+# Grape!
 
 A WEB_BROWSER made entirely with python.
 
-![Webuffer](Ssplash.gif)
+![Grape!](Images/grape.png)
 
-### Have a look at It,
- * Splash screen
-![Screenshot](https://github.com/Akshat-unt/WEBUFFER/blob/8362d1cddaf989f35c7f74e9918e055900932502/Screenshot%20(13).png)
- * Browser
-![screenshot](https://github.com/Akshat-unt/WEBUFFER/blob/8362d1cddaf989f35c7f74e9918e055900932502/Screenshot%20(10).png)
 
 # Installation:
  * Download the .zip file of code.
@@ -33,9 +28,10 @@ A WEB_BROWSER made entirely with python.
   * Less on memory high on performance.
   * Effecient usage of resources.
   * UN-TRACKABLE!☢
+  * Awesome animations!!
 
 ## Limitations:
-  - [ ] No Loading animation till now (work in progress).
+  - [x] No Loading animation till now (work in progress).
   - [ ] You need to write the full url of a website required in order to search through the address bar
   - [ ] Centrification of the Splash screen.
   - [ ] Can't sign in with Google.
@@ -44,6 +40,6 @@ A WEB_BROWSER made entirely with python.
 ## Contribute:
 * ``add a loading button``
 * ``Solve the limitations``
-## Wer'e participating in HACKTOBERFEST 2021
+## We're participating in HACKTOBERFEST
 > Feel free to submit pull requests with documentation improvements...
 * Any spam will not be tolerated.
