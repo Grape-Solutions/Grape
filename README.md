@@ -27,7 +27,7 @@ A Web Browser made entirely in python.
 ## INCREMENTS:
   * Fully private browser with its own search engine. 😉
      > which allows it to deal more effeciently
-  * Dose'nt store cache or any other kind of data. 📈
+  * Doesn't store cache or any other kind of data. 📈
   * Less on memory high on performance. 🚀
   * Effecient usage of resources. 📈
   * UN-TRACKABLE!☢
