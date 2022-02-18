@@ -1,6 +1,6 @@
 # Grape 🔎
 
-A Web Browser made entirely with python.
+A Web Browser made entirely in python.
 
 ![Grape!](Images/grape.png)
 
