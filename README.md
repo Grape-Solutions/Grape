@@ -20,6 +20,7 @@ A Web Browser made entirely in python.
 ## Pre-requisites: 
   * PyQt5     ``$ pip install PyQt5``
   * PIL       ``$ pip install pillow``
+  * PyQtWebEngine ```$ pip install PyQtWebEngine```
 
 ## Credits:
   > Akshat - ```Designing / Maintaining```
