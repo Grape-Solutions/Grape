@@ -37,12 +37,14 @@ A Web Browser made entirely in python.
 ### All new Dark mode is here... give your eyes some rest!! 😉
 
 ## Limitations:
-  
-  - [x] Can't sign in with Google. ```Yeyy! now you can sign in with Google!!``` 😉
-  - [ ] You need to write the full url of a website required in order to search through the address bar (work in progress)
+  ### Solved-
   - [x] Centrification of the Splash screen. ```No longer needed!```
   - [x] No Loading animation till now. ```SOLVED```
   - [x] No Tabs! ``SOLVED IN VER 2.0``
+  - [x] Can't sign in with Google. ```Yeyy! now you can sign in with Google!!``` 😉
+  ### Help needed-
+  - [ ] You need to write the full url of a website required in order to search through the address bar (work in progress)
+
 
 ## Contribute:
 ![GitHub stars](https://img.shields.io/github/stars/Grape-Solutions/Grape?label=Contributors&style=for-the-badge)
