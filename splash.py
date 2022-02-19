@@ -1,10 +1,8 @@
 # Importing application:
-
 from grape import application_
 
 # ImportLibraryHere
 from tkinter import *
-from PIL import ImageTk, Image
 
 # SplashScreen
 
