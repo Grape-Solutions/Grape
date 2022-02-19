@@ -38,7 +38,7 @@ A Web Browser made entirely in python.
 
 ## Limitations:
   
-  - [ ] Can't sign in with Google.
+  - [x] Can't sign in with Google. ```Yeyy! now you can sign in with Google!!``` 😉
   - [ ] You need to write the full url of a website required in order to search through the address bar (work in progress)
   - [x] Centrification of the Splash screen. ```No longer needed!```
   - [x] No Loading animation till now. ```SOLVED```

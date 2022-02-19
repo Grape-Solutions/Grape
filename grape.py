@@ -9,7 +9,7 @@ def application_():
         def __init__(self):
             super(MainWindow, self).__init__()
             self.browser = QWebEngineView()
-            self.browser.setUrl(QUrl('https://grapesearch.netlify.app/search'))
+            self.browser.setUrl(QUrl('https://google.com'))
             self.setCentralWidget(self.browser)
             self.showMaximized()
 
