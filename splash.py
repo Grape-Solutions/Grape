@@ -1,10 +1,8 @@
 # Importing application:
-
 from grape import application_
 
 # ImportLibraryHere
 from tkinter import *
-from PIL import ImageTk, Image
 
 # SplashScreen
 
@@ -20,7 +18,7 @@ sroot.configure()
 
 spath = 'Images\\grape.png'
 
-simg = ImageTk.PhotoImage(Image.open(spath))
+simg = PhotoImage(file=spath)
 
 my = Label(sroot, image=simg)
 
