@@ -41,7 +41,7 @@ def application_():
             self.browser.urlChanged.connect(self.update_url)
 
         def navigate_home(self):
-            self.browser.setUrl(QUrl('https://grapesearch.netlify.app/search'))
+            self.browser.setUrl(QUrl('https://google.com'))
 
         def navigate_to_url(self):
             url = self.url_bar.text()
