@@ -1,6 +1,6 @@
 # Grape 🔎
 
-A Web Browser made entirely in python.
+A Web Browser made entirely in python. [![Netlify Status](https://api.netlify.com/api/v1/badges/8c14f8ac-2390-4962-9236-0e1de13cfd04/deploy-status)](https://app.netlify.com/sites/grapesearch/deploys)
 
 ![Grape!](Images/grape.png)
 
