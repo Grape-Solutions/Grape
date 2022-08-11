@@ -23,7 +23,9 @@ A Web Browser made entirely in python. [![Netlify Status](https://api.netlify.co
   * PyQtWebEngine ```$ pip install PyQtWebEngine```
 
 ## Credits:
-  > Akshat - ```Designing / Maintaining```
+  > [Akshat](https://github.com/Akshat-unt) - ```Designing / Maintaining```
+  
+  > [Walid](https://github.com/was07)- ```Contributor```
   
 ## INCREMENTS:
   * Fully private browser with its own search engine. 😉
